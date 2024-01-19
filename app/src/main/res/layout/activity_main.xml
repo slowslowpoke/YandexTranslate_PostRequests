@@ -8,6 +8,7 @@
     tools:context=".MainActivity">
 
     <EditText
+        android:inputType="text"
         android:id="@+id/etSearchWord"
         android:hint="Введите слово"
         android:layout_width="match_parent"
